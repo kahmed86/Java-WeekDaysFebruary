@@ -22,7 +22,7 @@ public class Execution {
 		math.getAddress();
 		Math.getTime();
 		
-		//Because of Return Type We Need Another Variable
+		//Because of Return Type We Need Another Variable to store the data
 		int newValue = math.calculator(7, 8);
 		System.out.println(newValue);
 		
